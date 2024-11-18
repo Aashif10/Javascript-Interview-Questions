@@ -578,3 +578,9 @@
 // console.log(!"Aasif")//false
 // console.log(NaN == undefined);
 // console.log(NaN===undefined)
+// let arr = [1, 2, 3, 4, 5];
+// function fun(a, ...rest) {
+//     console.log(a)
+//     // console.log(...rest)
+// }
+//  fun(...arr)
